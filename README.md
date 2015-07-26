@@ -7,7 +7,11 @@
     weibo.decide_post_comment();
     weibo.get_comment('3856489792158325')
 <br>
-
+<a href="http://weibo.com/1502371603/CoEVLDDhL?type=comment">演示地址</a>
+<br>
+<img src="https://github.com/burkun/WebBlog/blob/master/images/web2.jpg" />
+<br>
+<img src="https://github.com/burkun/WebBlog/blob/master/images/web.jpg" />
     pip install rsa
     pip install PIL --allow-external PIL --allow-unverified PIL
     pip install pyquery
