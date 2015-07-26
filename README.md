@@ -12,6 +12,8 @@
 <img src="https://github.com/burkun/WebBlog/blob/master/images/web2.jpg" />
 <br>
 <img src="https://github.com/burkun/WebBlog/blob/master/images/web.jpg" />
+
+
     pip install rsa
     pip install PIL --allow-external PIL --allow-unverified PIL
     pip install pyquery
