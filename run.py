@@ -7,7 +7,7 @@ from simweibo import Log
 
 
 if __name__ == '__main__':
-    equalStrs =[u"请你吃饭", u"爱老虎油"]
+    equalStrs =[u"请你吃饭", u"评论保平安"]
     mid = '3858772139445809'
     #isok, imgpath = getImg()
     w = Weibo("*****", "***********")
