@@ -10,7 +10,7 @@ if __name__ == '__main__':
     equalStrs =[u"请你吃饭", u"爱老虎油"]
     mid = '3858772139445809'
     #isok, imgpath = getImg()
-    w = Weibo("burkun", "bureaucratweibo")
+    w = Weibo("*****", "***********")
     comms = w.get_new_post_comment(mid)
     if len(comms) == 0:
         Log.info("no one comment!")
