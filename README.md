@@ -1,4 +1,4 @@
-# Sinaweibo
+# Sinaweibo （拍照片的功能已经失效，树莓派坏掉了）
 新浪微博模拟登录 和 自动发 微博，带图片微博 的python脚本，使用opencv实现读取摄像头上传图片到微博。
 
     weibo = Weibo('burkun', '******')
